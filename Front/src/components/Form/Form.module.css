@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.formulario{
+    background-image: url('/src/img/login2.jpg');
+    height: 500px;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    position: relative;
+    top: 120px;
+    border-radius: 20px;
+}
+
+.username{
+    font-family:'Righteous';
+    text-decoration: underline;
+    color: chartreuse;
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+    top: 15px;
+}
+
+.password{
+    font-family:'Righteous';
+    text-decoration: underline;
+    color: chartreuse;
+    margin: 10px;
+    padding: 5px;
+    position: relative;
+    top: 20px;
+    
+}
+
+.inputname{
+    margin: 5px;
+    padding: 5px;
+    position: relative; 
+    border-radius: 5px;
+    top: 15px;
+}
+
+.inputpass{
+    margin: 5px;
+    padding: 5px;
+    position: relative; 
+    border-radius: 5px;
+    top: 20px;
+}
+
+.login{
+    text-align: center;
+    font-family:'Righteous';
+    font-size: 15px;
+    border-radius: 10px;
+    position: relative;
+    top: 40px;
+}
+    
+.login:hover{
+    background-image: url(/src/img/fondocard.jpg)
+}

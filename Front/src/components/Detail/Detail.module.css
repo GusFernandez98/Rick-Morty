@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.titulo{
+    text-align: start;
+    padding-left: 110px;
+    font-size: 50px;
+    text-decoration: underline;
+    font-family:  'Righteous';
+    color: aqua;
+}
+
+.estado{
+  
+    text-align: left;
+    padding: 5px;
+    padding-left: 90px;
+    font-size: 30px;
+    font-family:  'Righteous';
+    color: aqua;
+}
+
+.especie{
+   
+    text-align: left;
+    padding: 5px;
+    padding-left: 90px;
+    font-size: 30px;
+    font-family:  'Righteous';
+    color: aqua;
+    
+}
+
+.genero{
+ 
+    text-align: left;
+    padding: 5px;
+    padding-left: 90px;
+    font-size: 30px;
+    font-family:  'Righteous';
+    color: aqua;
+}
+
+.origen{
+   
+    text-align: left;
+    padding: 5px;
+    padding-left: 90px;
+    font-size: 30px;
+    font-family:  'Righteous';
+    color: aqua;
+}
+
+.imagen{
+    position: absolute;
+    top: 12rem;
+    margin-inline: 300px;
+    width: 320px;
+    height: 320px;
+    transition: all 0.25s;
+}
+
+.imagen:hover{
+    transform: translate(-15px);
+    box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
+}
+
+.imag{
+    background-color: aliceblue;
+}
+
+
+
+
+

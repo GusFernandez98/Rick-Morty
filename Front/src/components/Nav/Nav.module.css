@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.barraSuperior{
+    background-color: #a945c7;
+    margin-inline: 80px;
+    border-radius: 10px;
+    text-align: center;  
+    height: 80px;
+}
+
+.home{
+    color: black;
+    margin: 10px;
+    padding: 3px;
+    font-size: 15px;
+    padding-inline: 12px;
+    font-family:  'Righteous';
+    position: absolute;
+    left: 110px; 
+    top: 40px;
+
+}
+
+.home:hover{
+    background-image: url(/src/img/fondocard.jpg)
+}
+
+.about{
+    color: black;
+    margin: 10px;
+    padding: 3px;
+    font-size: 15px;
+    padding-inline: 10px;
+    font-family:  'Righteous';
+    position: absolute;
+    top: 40px;
+    left: 200px;
+}
+
+.about:hover{
+    background-image: url(/src/img/fondocard.jpg)
+}
+
+.logout{
+    color: black;
+    margin: 10px;
+    padding: 3px;
+    font-size: 15px;
+    padding-inline: 10px;
+    font-family:  'Righteous';
+    position: absolute;
+    right: 110px;
+    top: 40px;
+    text-align: end;
+}
+
+.logout:hover{
+    background-image: url(/src/img/fondocard.jpg)
+}
+
+.favorites{
+    color: black;
+    margin: 10px;
+    padding: 3px;
+    font-size: 15px;
+    padding-inline: 10px;
+    font-family:  'Righteous';
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+
+.favorites:hover{
+    background-image: url(/src/img/fondocard.jpg)
+}
